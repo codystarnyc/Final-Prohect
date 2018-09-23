@@ -1,0 +1,63 @@
+
+img {
+
+width: 90px;
+
+height:90px;
+
+float: left;
+
+}
+
+body{
+  background-color: #7fffd4;
+}
+#postAge {
+  font-size: 14px;
+}
+#postPhoneNumber {
+  font-size: 14px;
+}
+#postAddress {
+  font-size: 14px;
+}
+
+
+/*class created to center lines*/
+.center{
+  text-align: center;
+}
+/*style on h1 tags*/
+h1{
+  font-family: 'Oswald',sans-serife;
+}
+/*style all p tags*/
+p{
+  font-family: 'Verdana', sans-serif;
+  font-size: 1.5em;
+}
+/*style labels */
+label{
+  font-size: 1em;
+  font-family: 'Oswald', sans-serif;
+  width: auto;
+  padding-right: 20px;
+  clear:left;
+
+}
+
+
+#idCard {
+
+border: 5px solid black;
+background-color: #ffc0cb;
+height: 14em;
+width: 25em;
+
+}
+
+.flex {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
